@@ -73,4 +73,3 @@ Follow these simple steps to set up your environment for using the MMagic Stable
 11. **The script will generate an image based on your text prompt and save it to the `output` directory as `sd_res.png`. 🖼️
 
 Now you're ready to create amazing images from your text prompts with MMagic's Stable Diffusion model! 🎨✨
-```

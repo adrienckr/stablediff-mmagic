@@ -3,6 +3,10 @@
 
 This Python script demonstrates how to use the MMagic API to generate stunning images from text prompts using the powerful Stable Diffusion model. Simply provide a text prompt, and the script will create an image that brings your ideas to life! 🌟
 
+## Clone this repository
+```bash
+git clone https://github.com/adrienckr/stablediff-mmagic.git
+```
 ## Prerequisites 🛠️
 
 Before you get started, make sure you have the following dependencies installed:
